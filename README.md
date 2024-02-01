@@ -1,4 +1,7 @@
 # Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+Visualization of the [layout design](https://www.figma.com/file/DtkQmQ797hk0nI4KfMi2Uq/BOSE-New-Version?type=design&node-id=6817-212&t=ZTV6Gl8NzaWkJ4FK-0) Bang & Olufsen company.
+
+- [DEMO LINK](https://AntonBelia.github.io/landing_page-Bang-Olufsen/)
+
+# Used technologies:
+✔ HTML ✔ SASS (SCSS) ✔ BEM methodology ✔ Adaptive media-queries
